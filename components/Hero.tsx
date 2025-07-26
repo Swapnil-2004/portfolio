@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
              <div className="relative w-72 h-72 lg:w-96 lg:h-96">
                 <div className="absolute inset-0 bg-teal-500 rounded-full blur-2xl opacity-30"></div>
                 <img 
-                    src="https://github.com/Swapnil-2004/portfolio/blob/main/sc.jpg" 
+                    src="https://media.licdn.com/dms/image/v2/D4D35AQHEts9FmNUIMg/profile-framedphoto-shrink_800_800/profile-framedphoto-shrink_800_800/0/1737317292455?e=1754139600&v=beta&t=-HNm-kFCKQmCvSAk3D3TysxhGrs8_smwFOE2BVBxtSE" 
                     alt="Swapnil Chakraborty" 
                     className="relative w-full h-full object-cover rounded-full border-4 border-slate-700 shadow-2xl"
                 />
